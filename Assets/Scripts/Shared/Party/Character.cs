@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
-using System.Collections;
 
+/// <summary>
+/// For characters in parties.
+/// </summary>
 [RequireComponent(typeof(CharacterStats))]
 public class Character : MonoBehaviour 
 {

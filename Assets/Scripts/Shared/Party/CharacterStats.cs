@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
-using System.Collections;
 
+/// <summary>
+/// RequireComponent-ed by Character.
+/// </summary>
 public class CharacterStats : MonoBehaviour 
 {
 	public int Health;
